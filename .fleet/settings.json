@@ -8,5 +8,6 @@
             "type": "add",
             "pluginName": "fleet.gradle"
         }
-    ]
+    ],
+    "editor.formatOnSave": true
 }
